@@ -50,7 +50,11 @@ a.active{
     
     height: 400px;
     width: 100%;
+    border-radius: 10px;
+    object-fit: cover;
 }
 .card h2{
     display: inline-block;
+    margin: 8px 0 16px 0;
+    font-weight: 300;
 }
